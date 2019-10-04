@@ -6,4 +6,4 @@ pipenv --three
 pipenv install "prompt-toolkit>=2.0.4"
 pipenv install ipykernel
 pipenv install pandas
-pipenv run python -m ipykernel install --user --name={{ cookiecutter.project_slug }}
+# pipenv run python -m ipykernel install --user --name={{ cookiecutter.project_slug }}

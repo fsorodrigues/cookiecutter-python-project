@@ -7,3 +7,5 @@ pipenv install "prompt-toolkit>=2.0.4"
 pipenv install ipykernel
 pipenv install pandas
 # pipenv run python -m ipykernel install --user --name={{ cookiecutter.project_slug }}
+git init
+# git remote add origin URL_GOES HERE
